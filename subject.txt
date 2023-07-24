@@ -1,0 +1,5 @@
+maths
+english
+physics 
+chemistry 
+agric
